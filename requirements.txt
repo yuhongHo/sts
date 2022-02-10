@@ -1,0 +1,7 @@
+datasets==1.16.1
+scipy==1.6.2
+scikit-learn==1.0.2
+transformers==4.14.1
+
+--find-links https://download.pytorch.org/whl/torch_stable.html
+torch==1.10.1+cu113
